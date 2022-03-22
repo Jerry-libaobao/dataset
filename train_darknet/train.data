@@ -1,0 +1,6 @@
+classes= 3
+//train  = /home/dl/darknet/article_data/train.txt
+//valid  = /home/dl/darknet/article_data/test.txt
+names = /home/lbbandxbb/anaconda3/envs/lbbandxbb/darknet/article_data/article_data.names
+backup = /home/lbbandxbb/anaconda3/envs/lbbandxbb/darknet/article_data/backup
+
